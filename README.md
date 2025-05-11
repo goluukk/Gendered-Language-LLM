@@ -32,8 +32,3 @@ This project explores gendered language generation by fine-tuning GPT-2 models o
 | Male Model   | 5.39          | 58%                |
 | Female Model | 2.99          | 58%                |
 
-## Usage
-
-1. **Install dependencies:**
-   ```bash
-   pip install transformers pandas sacrebleu scikit-learn
